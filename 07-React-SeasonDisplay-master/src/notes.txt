@@ -1,0 +1,7 @@
+https://courses.wesbos.com/account/access/5d15088e85f96c03c1e4b999/view/194130650
+
+when single component to update update its state.
+
+setState to update state.
+
+state  contains data which is most relevant;

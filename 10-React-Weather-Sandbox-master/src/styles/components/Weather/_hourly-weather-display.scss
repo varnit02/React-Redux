@@ -1,0 +1,12 @@
+$hourly-weather-display-height: 170px;
+$hourly-weather-display-color: lightSteelBlue;
+
+.hourly-weather-card {
+    height: $hourly-weather-display-height - 20px;
+    text-align: center;
+}
+
+.hourly-weather-card .icon {
+    height: 50px;
+    max-width: 50px;
+}
